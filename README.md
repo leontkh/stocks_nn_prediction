@@ -9,6 +9,9 @@ stocks_nn.py then incorporates the labels and data into a full data set, uses ma
 *Disclaimer: This program works on technical data alone and may not as effective as judging a stock on both its technicals and fundamentals*
 
 Libraries needed:
+
 pip install numpy
+
 pip install pandas
+
 pip install torch
